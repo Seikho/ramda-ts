@@ -1,0 +1,32 @@
+{
+  "name": "ramda-ts",
+  "version": "0.1.0",
+  "description": "Ramda for TypeScript",
+  "main": "src/index.js",
+  "typings": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seikho/ramda-ts.git"
+  },
+  "keywords": [
+    "Ramda",
+    "TypeScript"
+  ],
+  "author": "Carl Winkler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seikho/ramda-ts/issues"
+  },
+  "homepage": "https://github.com/seikho/ramda-ts#readme",
+  "devDependencies": {
+    "typescript": "^2.1.0-dev.20160730"
+  },
+  "dependencies": {
+    "@types/node": "^4.0.30",
+    "ramda": "^0.21.0"
+  }
+}
