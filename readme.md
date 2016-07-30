@@ -1,3 +1,5 @@
+## A small wrapper TypeScript wrapper of Ramda
+
 ### Requirements
 - TypeScript v2.0.0+
 
