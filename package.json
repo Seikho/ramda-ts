@@ -1,6 +1,6 @@
 {
   "name": "ramda-ts",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Ramda for TypeScript",
   "main": "src/index.js",
   "typings": "src/index.ts",
